@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Nil Bangoriya 👋
 
-<!--
-**NilBangoriya/NilBangoriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI/ML Engineer** passionate about building production-ready AI applications using **Machine Learning, Deep Learning, LLMs, RAG, and Agentic AI**.
 
-Here are some ideas to get you started:
+### Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Python • NumPy • Pandas • Scikit-learn • PyTorch • OpenCV • SQL • Git • GitHub • LLMs • RAG • LangChain • AI Agents • MLOps**
+
+### Currently Building
+
+* 🤖 Multi-Agent AI Systems
+* 🧠 RAG Applications
+* 📊 End-to-End Machine Learning Projects
+* 🚀 Production-Ready AI Solutions
+
+📫 **LinkedIn:** linkedin.com/in/nilbangoriya
+💻 **Portfolio of Projects:** github.com/NilBangoriya
